@@ -7,6 +7,9 @@ Start Date : TBD
 ## Topics Covered
 HTML, CSS and JS fundamentals. The full roadmap is available at the bottom of this page, but if you are plan to be part of this cohort, you need not look at it as the roadmap will be updated here live during the 7 day challenge
 
+## Discord Link
+The community will be on Discord. To join the Discord group and be part of this challenge, follow the steps below.
+
 ## How to join
 If you do not know the basics of Github, check out this tutorial https://www.youtube.com/watch?v=tRZGeaHPoaw and try cntributing to Zero to Mastery first at https://github.com/zero-to-mastery/start-here-guidelines (if you know git, skip this)
 1. Fork this repository (on the Github page of this repositiry, click on the button Fork)
